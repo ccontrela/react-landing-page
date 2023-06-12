@@ -2,7 +2,7 @@
 
 Here are four react landding pages.
 
-grant-landing-page
+  grant-landing-page(grant & tailwindcss)
 
 
 
