@@ -8,4 +8,6 @@
 
 * UserQual Landing Page
 
-
+Start:
+- move to landing page folder
+- run ```npm i && npm start``` to start the project
